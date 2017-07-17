@@ -1,3 +1,5 @@
+## NOTE: This is an archival copy of the original CC BY-SA AlienFlight flight controllers. Preserved for posterity.
+
 ## F3 Octo Brushed V1 Flight Controller
 
 The F3 Brushed Octo V1 is an experimental flight controller designed to pilot Quadcopters, Hexacopters, and even Octocopters using 7mm-8.5mm brushed motors. It features an ARM STM32 F3 processor,  built in USB for easy firmware flashing, and parameter editing,  MPU6050 Gyro/Accelerometer, 7A ESCs, and a built in Bind switch for easy binding.
@@ -30,10 +32,10 @@ The F3 Brushed Octo V1 is an experimental flight controller designed to pilot Qu
 
 #### Build Files and Resources:
 
-Schematic, board design, and part list ➜ [F3 Octo Brushed V1 ZIP](F3-Octo-Brushed-SIDE-USB.zip?raw=true "F3 Octo Brushed V1 ZIP") 
+Schematic and board design ➜ [F3 Octo Brushed V1 Eagle CAD Files](/Flight-Controllers/F3-V1/F3-Octo "F3 Octo Brushed V1 Eagle CAD Files") 
 
-This bare board can be made at ➜ [OSHpark](https://oshpark.com/shared_projects/XBq9epDI "OSHPark F3 Octo V1 Brushed")
+This bare board can be made at ➜ [OSH Park](https://oshpark.com/ "OSH Park")
 
-Stencils can be made at ➜ [OSHStencils] (https://www.oshstencils.com/ "OSHStencils")
+Stencils can be made at ➜ [OSH Stencils](https://www.oshstencils.com/ "OSH Stencils")
 
 _**THESE FILES ARE BEING PROVIDED ''AS IS'' WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES.**_

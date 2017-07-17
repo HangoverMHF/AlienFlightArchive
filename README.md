@@ -1,4 +1,4 @@
-## NoTE: This is an archival copy of the original CC BY-SA AlienFlight flight controllers. Preserved for posterity.
+## NOTE: This is an archival copy of the original CC BY-SA AlienFlight flight controllers. Preserved for posterity.
 
 # AlienFlight
 
